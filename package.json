@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "fs-extra": "^10.1.0",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.9"
+  }
+}
